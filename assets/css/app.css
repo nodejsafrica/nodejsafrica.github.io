@@ -189,10 +189,12 @@ body {
 /* News Section */
 
 #news-section {
-    background-image: url('../images/services_bg.jpg');
-    background-size: cover;
-    background-position: center;
-    z-index: 1070;
+  background-image: url('../images/services_bg.jpg');
+  background-size: cover;
+  background-position: center;
+  z-index: 1070;
+  -webkit-clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+  clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
     /* -webkit-clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0% 100%);
     clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0% 100%); */
 }
@@ -226,6 +228,7 @@ body {
 
 .card {
   margin-bottom: 2em;
+  box-shadow: 0 3px 1px rgba(0,0,0,0.16);
 }
 
 #news-link {
@@ -245,8 +248,18 @@ body {
 
 /* fifth Section */
 
-.fifth-section {
-    background: linear-gradient(#F3FBF2, #fff);
+#join-activities {
+  width: 100%;
+  margin-top: -31%;
+}
+
+.polygon-bg {
+  background: linear-gradient(#F3FBF2, #fff);
+  -webkit-clip-path: polygon(0 34%, 100% 0, 100% 100%, 0% 100%);
+  clip-path: polygon(0 55%, 100% 0, 100% 100%, 0% 100%);
+  width: 100%;
+  height: 500px;
+  margin-top: 100px;
 }
 
 .channel-icons>a {

@@ -119,13 +119,13 @@
 
     <!-- Empty Space -->
     <section>
-      <div class="row remove fourth-section">
+      <div class="row remove fourth-section polygon-bg">
       </div>
     </section>
 
-    <!-- fifth Section -->
+    <!-- Join-Activities Section -->
     <section>
-      <div class="row remove fifth-section" align="center">
+      <div id="join-activities" class="row remove" align="center">
         <div class="col-md-12 h2 div-2-1">
           Join us on all our channels
         </div>
@@ -144,26 +144,27 @@
               <div class="col-md-6 form-inner">
                 <input type="text" class="form-control contact" placeholder="First name">
               </div>
-                    <div class="col-md-6 form-inner">
-                        <input type="text" class="form-control contact" placeholder="Last name">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="col-md-6 form-inner">
-                        <input type="text" class="form-control contact" placeholder="Phone Number">
-                    </div>
-                    <div class="col-md-6 form-inner">
-                        <input type="text" class="form-control contact" placeholder="Organisation">
-                    </div>
-                </div>
-            </form>
+              <div class="col-md-6 form-inner">
+                <input type="text" class="form-control contact" placeholder="Last name">
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-6 form-inner">
+                <input type="text" class="form-control contact" placeholder="Phone Number">
+              </div>
+              <div class="col-md-6 form-inner">
+                <input type="text" class="form-control contact" placeholder="Organisation">
+              </div>
+            </div>
+          </form>
         </div>
         <div class="col-md-3"></div>
         <div class="col-md-12" align="center">
-            <button class="btn btn-see-activity node-btn">JOIN OUR ACTIVITIES</button>
+          <button class="btn btn-see-activity node-btn">JOIN OUR ACTIVITIES</button>
         </div>
+      </div>
     </div>
-</section>
+  </section>
 
 <!-- Footer -->
 <section>
