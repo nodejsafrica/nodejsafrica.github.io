@@ -16,7 +16,7 @@
     <!-- First Section -->
     <section>
       <div class="row remove">
-        <div class="col-md  first-section remove">
+        <div id="banner" class="col-md remove">
           <!-- Navbar -->
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">
@@ -75,7 +75,7 @@
         </div>
       </section>
 
-      <!-- Second Section -->
+      <!-- About Section -->
       <section id="about-section">
         <div class="container">
           <div class="row">
@@ -163,20 +163,19 @@
           <button class="btn btn-see-activity node-btn">JOIN OUR ACTIVITIES</button>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-<!-- Footer -->
-<section>
-    <div class="row remove">
+    <!-- Footer -->
+    <section>
+      <div class="row remove">
         <div class="col footer">
-            © Node.js Africa 2018
+          © Node.js Africa 2018
         </div>
-    </div>
-</section>
-
-    </div>
+      </div>
+    </section>
+  </div>
 </body>
+
 <script src="assets/js/jquery-3.2.1.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 
