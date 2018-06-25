@@ -2,6 +2,14 @@
 
 Node JS Africa Official Web Page
 
+#Updated UI Design Specs Link...
+
+To access the UI design, click the link below:
+
+https://xd.adobe.com/spec/db271635-b2a6-4f8c-7017-321f463af56e-ad16/
+
+Feel free to implement and create PRs
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
