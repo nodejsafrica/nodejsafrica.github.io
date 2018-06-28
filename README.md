@@ -30,7 +30,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available.
 
 ## Authors
 
-* **Precious Chukundah** - *User Interface/User Experience/Frontend Design* - [Chigisoft](https://chukundah.com)
+* **Precious Chukundah** - *User Interface/User Experience/Frontend Design* - [Chigisoft](https://chukundah.com).
+
+* **Precious Dike** - *Node.js Backend*
 
 See also the list of [contributors](https://github.com/NodeJSAfrica/nodejs.africa/contributors) who participated in this project.
 
@@ -40,4 +42,5 @@ This project is licensed under the LGPL-3.0 - see the [LICENSE.md](LICENSE.md) f
 
 ## Acknowledgments
 
-* Chigisoft.
+* [Chigisoft](https://chigisoft.com)
+* Providence Ifeosame
