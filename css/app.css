@@ -25,6 +25,10 @@ body {
   line-height: 28px;
 }
 
+a, a:hover, a:active {
+  text-decoration: none;
+  color: #636363;
+}
 .h {
   font-family: 'QuickSand Bold';
   color: #333333;
@@ -94,7 +98,9 @@ h2 {
   background-color: #689F63;
   color: #FFFFFF;
   border-radius: 0;
-  padding: 7px 36.2px;
+  padding: 9px 21px;
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
 }
 
 .btn-node-school:hover {
@@ -231,6 +237,8 @@ h2 {
   background-color: #689F63;
   padding: 11px 25px;
   border-radius: 0;
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
 }
 
 .channel-icons>a {
